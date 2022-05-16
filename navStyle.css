@@ -1,0 +1,25 @@
+.list {
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+.listItem {
+    float: right;
+  }
+  
+.listItem .anchorItem {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: "Trirong", serif;
+  }
+  
+.listItem .anchorItem:hover {
+    background-color: #111;
+  }
