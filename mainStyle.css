@@ -5,17 +5,6 @@ body {
     margin: 0px;
   }
   
-  h1{
-    text-align: center;
-    font-size: 60px;
-    color: red;
-    font-family: "Sofia", sans-serif;
-    text-shadow: 10px 10px 10px #aaa;
-  }
-  h2{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-  }
   ul{
     display: table;
     font-size: 30;
